@@ -9,6 +9,6 @@ eval_deflate.py: eval model code
 
 discriminate_deflate.py: train discriminative model code
 
-All data has been encrypted, and the code also needs to be decrypted before use. If you need it, please contact us by email.
+All data has been encrypted, which needs to be decrypted before use. If you need it, please contact us by email.
 
 
